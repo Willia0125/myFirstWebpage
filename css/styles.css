@@ -1,0 +1,83 @@
+body {
+  background-color: #e8e8e8;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #00334e;
+  S font-size: 2rem; //locks in font size for upstream input
+  font-family: 'Russo One', sans-serif;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #5588a3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #5588a3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.monitor-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  /*Icon made by Design Tools [https://www.flaticon.com/free-icon/monitor_124092] from www.flaticon.com*/
+}
+.factory-image {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  /*Icon made by Ecopack [https://www.flaticon.com/free-icon/ecologism_383507] from www.flaticon.com */
+}
+/*.top-container {
+  //background-color: #ffffff;
+  position: relative;
+  padding-top: 100px;
+}*/
+.middle-container {}
+
+.bottom-container {}
+
+/*.top-cloud {
+  position: absolute;
+  left: 850px;
+  top: 0px;*/
+}
+/*.bottom-cloud {
+  position: absolute;
+  right: 850px;
+  bottom: 150px;*/
+}
+
+.p1 {
+  color: #4c4a52;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  width: 15%;
+  /*height: auto;
+  position: absolute;
+  left: 950px;
+  top: 0px;
+  /*opacity: 0.5;
+  filter: alpha(opacity=50);*/
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+
+}
